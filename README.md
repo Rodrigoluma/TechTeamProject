@@ -1,4 +1,5 @@
-[:brazil:]
+Projeto desenvolvido durante a semana hackaton Tech Academy StartSE. 
+O projeto reebeu o primeiro lugar da competição.
 
 Sustenta-Tech
 # Descrição do Projeto
